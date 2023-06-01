@@ -66,7 +66,7 @@ style={{scaleY: scrollYProgress}}
 
             <Details
               position="Supervisor"
-              company="Facebook"
+              company="FULLTIMEGROUP"
               companyLink="https://www.fulltimegroup.com.ar"
               time="Summer 2021"
               address="Menlo Park, CA."

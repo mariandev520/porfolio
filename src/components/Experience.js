@@ -56,18 +56,18 @@ style={{scaleY: scrollYProgress}}
 
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
         <Details
-              position="Software Engineer"
-              company="Google"
-              companyLink="https://google.com"
+              position="Develop FullStack"
+              company="Mad.net.ar"
+              companyLink="https://mad.net.ar"
               time="2022-Present"
               address="Mountain View, CA"
               work="Worked on a team responsible for developing new features for Google's search engine, including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."
             />
 
             <Details
-              position="Intern"
+              position="Supervisor"
               company="Facebook"
-              companyLink="https://facebook.com"
+              companyLink="https://www.fulltimegroup.com.ar"
               time="Summer 2021"
               address="Menlo Park, CA."
               work="Worked on a team responsible for developing a new mobile app
@@ -78,8 +78,8 @@ style={{scaleY: scrollYProgress}}
 
             <Details
               position="Software Developer"
-              company="Amazon"
-              companyLink="https://amazon.com"
+              company="Iturrarte"
+              companyLink="Iturrarte"
               time="2020-2021"
               address="Seattle, WA."
               work="Worked on a team responsible for developing Amazon's mobile app, including implementing new features such as product recommendations and user reviews, and optimizing the app's performance and reliability."
@@ -87,9 +87,9 @@ style={{scaleY: scrollYProgress}}
 
             <Details
               position="Software Developer Intern"
-              company="Microsoft"
-              companyLink="https://microsoft.com"
-              time="Summer 2019"
+              company="Iturrarte Repuestos"
+              companyLink=""
+              time="Actual"
               address="Redmond, WA."
               work="Worked on a team responsible for developing new features for
               Microsoft's Windows operating system, including implementing a new
@@ -99,7 +99,7 @@ style={{scaleY: scrollYProgress}}
 
             <Details
               position="Teaching Assistant"
-              company="MIT"
+              company="Iturrarte Repuestos"
               companyLink="https://mit.edu"
               time="Fall 2018"
               address="Massachusetts Ave, Cambridge, MA."

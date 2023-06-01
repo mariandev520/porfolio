@@ -3,7 +3,7 @@ import { useRouter } from "next/router";
 import React, { useState } from "react";
 import {
  
-  DribbbleIcon,
+ 
   GithubIcon,
   LinkedInIcon,
   SunIcon,
@@ -212,7 +212,7 @@ const NavBar = () => {
               whileTap={{ scale: 0.9 }}
               className="w-6 mr-3 sm:mx-1"
             >
-              <TwitterIcon />
+             
             </motion.a>
             <motion.a
               href="https://twitter.com"

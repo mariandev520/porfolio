@@ -17,9 +17,7 @@ export default function Home() {
       <title>MhManzo</title>
         <meta
           name="description"
-          content="Explore CodeBucks's Next.js developer portfolio and 
-        discover the latest webapp projects and software engineering articles. 
-        Showcase your skills as a full-stack developer and software engineer."
+          content="Porfolio Personal."
         />
       </Head>
       <TransitionEffect />

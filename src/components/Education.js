@@ -45,23 +45,23 @@ const Education = () => {
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
         <Details
             type="Bachelor of Science in Computer Science"
-            time="2016-2020"
-            place="Massachusetts Institute of Technology (MIT)"
-            info="Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial Intelligence."
+            time="2017-2020"
+            place="Plan 111 Mil Porgramador Funcional Ministerio de la Nacion"
+            info="I approach the study in Java as the base language, Pooh and all its details, such as MySql, Git, Spring, and all the agile skills."
           />
 
           <Details
-            type="Master of Computer Science"
-            time="2020-2022"
-            place="Stanford University"
+            type="React Js-Chakra Ui-Tailwindcss"
+            time="2020-2021"
+            place="Udemy"
             info="Completed a master's project on deep learning, developing a new neural network architecture for natural language understanding."
           />
 
           <Details
             type="Online Coursework"
-            time="2016-2020"
-            place="Coursera and edX"
-            info="Completed coursework in advanced topics such as Reinforcement Learning, Computer Vision, and Machine Learning Engineering."
+            time="2022-2023"
+            place="Swift Appel"
+            info="I started with the development of apps based on SwifitUi and its advanced environment in xcode."
           />
         </ul>
       </div>

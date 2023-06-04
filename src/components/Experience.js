@@ -70,10 +70,8 @@ style={{scaleY: scrollYProgress}}
               companyLink="https://www.fulltimegroup.com.ar"
               time="Summer 2021"
               address="Menlo Park, CA."
-              work="Worked on a team responsible for developing a new mobile app
-              feature that allowed users to create and share short-form video
-              content, including designing and implementing a new user interface
-              and developing the backend infrastructure to support the feature."
+              work="My main role is about supervising, leading teams, controlling functions and developing strategies for clients and employees that raise and maintain their performance.
+              As well as the interaction with customers every day"
             />
 
             <Details
@@ -82,7 +80,7 @@ style={{scaleY: scrollYProgress}}
               companyLink="Iturrarte"
               time="2020-2021"
               address="Seattle, WA."
-              work="Worked on a team responsible for developing Amazon's mobile app, including implementing new features such as product recommendations and user reviews, and optimizing the app's performance and reliability."
+              work="My task here is a technology accesor for use in this company, both in the choice of servers and security."
             />
 
             <Details
@@ -91,16 +89,15 @@ style={{scaleY: scrollYProgress}}
               companyLink=""
               time="Actual"
               address="Redmond, WA."
-              work="Worked on a team responsible for developing new features for
-              Microsoft's Windows operating system, including implementing a new
-              user interface for a system settings panel and optimizing the
-              performance of a core system component."
+              work="Assisted in teaching a course on computer programming, held office
+              hours to help students with assignments, and graded exams and
+              assignments"
             />
 
             <Details
               position="Teaching Assistant"
               company="Iturrarte Repuestos"
-              companyLink="https://mit.edu"
+              companyLink=""
               time="Fall 2018"
               address="Massachusetts Ave, Cambridge, MA."
               work="Assisted in teaching a course on computer programming, held office
